@@ -22,3 +22,4 @@ Next the mean is computed across for using each subjects vincitile V<sub>i</sub>
 - MeanV<sub>1</sub> = (Subjects 1's V<sub>1</sub> + Subjects 2's V<sub>1</sub>+... +Subjects 11 's V<sub>1</sub>)/11
 - Repeat and compute the mean for each V<sub>i</sub> until there are 7 (number of bins) such means 
 The data can now  be plotted
+![Alt text](vincitizing-plot.png?raw=true "Plot")
