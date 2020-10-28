@@ -1,2 +1,2 @@
 # Vincitizing-in-R
-Assisted in compute the vincitiles of data
+Assisted in computing the vincitiles of subject data.
